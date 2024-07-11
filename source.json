@@ -1,11 +1,11 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Vee's Toolbox",
+    "id":"com.vee.toolbox",
+    "url":"https:/vesturo.github.io/Veestoolkit/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"contact@vesturo.eu",
+        "name":"Vee",
+        "url":"https://vesturo.eu"
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
