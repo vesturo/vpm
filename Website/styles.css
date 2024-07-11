@@ -17,7 +17,7 @@ body {
     justify-content: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-size: cover;
-    backdrop-filter: blur(10px) grayscale(0.4);
+    backdrop-filter: brightness(0.5) blur(5px) grayscale(1);
     color: white;
     border-bottom: 2px solid #d21885;
 }
@@ -60,7 +60,7 @@ h1 {
 
 .caption1 {
   font-size: 1rem;
-  color: var(--neutral-foreground-hover);
+  color: white;
 }
 
 .caption2 {
