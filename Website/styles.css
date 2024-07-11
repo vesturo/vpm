@@ -7,15 +7,19 @@
 }
 
 body {
-  padding: 0;
-  margin: 0;
-  min-width: 100vw;
-  min-height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color: var(--neutral-foreground-rest);
+    background-image: url(https://vesturo.eu/assets/img/bg.jpg);
+    padding: 0;
+    margin: 0;
+    min-width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-size: cover;
+    backdrop-filter: blur(10px) grayscale(0.4);
+    color: white;
+    border-bottom: 2px solid #d21885;
 }
 
 .hidden {
