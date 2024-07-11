@@ -1,20 +1,20 @@
 {
     "name":"Vee's Toolbox",
     "id":"com.vee.toolbox",
-    "url":"https:/vesturo.github.io/Veestoolkit/index.json",
+    "url":"https:/vesturo.github.io/vpm/index.json",
     "author":{
         "email":"contact@vesturo.eu",
         "name":"Vee",
         "url":"https://vesturo.eu"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Easily import my shenanigans into your VCC!",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
+        "url":"https://ko-fi.com/vesturo",
+        "text":"Support me on ko-fi!"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "vesturo/Vees-toolbox"
     ],
     "packages":[
         {
